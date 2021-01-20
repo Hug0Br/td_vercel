@@ -137,4 +137,34 @@ Le serverless est un modèle dans lequel on fait appel a un service Cloud (comme
 
 Les développeurs fournissent le code et c'est le fournisseur qui gère tout le reste. LE développeur peut ainsi se concentrer uniquement sur le travail de développement, sans avoir la partie administration de serveur à gérer. 
 
+# 23) 
+On tape "vercel pour deployer : 
+
+ Linked to hugoteam/hugoteamserverless (created .vercel)
+
+�  Inspect: https://vercel.com/hugoteam/hugoteamserverless/1hc9m956q [2s]
+
+✅  Production: https://hugoteamserverless.vercel.app [copied to clipboard] [1m]
+
+�  Deployed to production. Run `vercel --prod` to overwrite later (https://vercel.link/2F).
+
+�  To change the domain or build command, go to https://vercel.com/hugoteam/hugoteamserverless/settings
+
+# 24)
+
+On redéploie avec "vercel" : 
+
+Vercel CLI 21.1.0
+
+�  Inspect: https://vercel.com/hugoteam/hugoteamserverless/mvvbjolpe [3s]
+
+✅  Preview: https://hugoteamserverless-hug0br.hugoteam.vercel.app [copied to clipboard] [1m]
+
+�  To deploy to production, run `vercel --prod`
+
+�  Inspect: https://vercel.com/hugoteam/hugoteamserverless/hlsgh5a63 [2s]
+
+✅  Production: https://hugoteamserverless.vercel.app [copied to clipboard] [2m]
+
+
 
